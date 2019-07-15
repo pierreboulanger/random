@@ -1,0 +1,78 @@
+.banner {
+  background-image: url("../../images/mountain.png");
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  background-size: cover !important;
+  height: 100vh;
+}
+
+.banner-content {
+  margin-top: 100px;
+}
+
+.banner-content h1 {
+  font-size: 60px;
+}
+
+.banner-content h3 {
+  font-size: 27px;
+}
+
+.banner-arrow a {
+  width: 100%;
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.contact {
+  position: absolute;
+  bottom: 10px;
+}
+
+.button-link {
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 10px 29px;
+  transition: all 0.5s ease;
+}
+
+.button-link:hover {
+  color: black;
+  background: white
+}
+
+.contact ul {
+  margin-top: 40px;
+  display: flex;
+}
+
+.contact li {
+  display: inline;
+  padding: 2px 5px;
+  padding: 2px 5px;
+  margin: 20px;
+  border: 1px solid white;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+a li {
+  color: white;
+  font-size: 20px;
+}
+
+/* Put something here if we want different stuff for tablet/phone
+@media (max-width: 800px) {
+  .banner-content {
+
+  }
+}
+*/

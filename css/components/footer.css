@@ -1,0 +1,29 @@
+.site_footer.first_footer_only .footer-fluid {
+  padding: 90px 0 100px;
+}
+
+.site_footer .page-header {
+  margin-top: 0;
+  border-bottom: 0;
+  color: #ccc;
+  margin-bottom: 14px;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.footer-fluid {
+  background-color: #111;
+  font-size: 19px;
+}
+
+.footer-fluid {
+  text-align: center;
+  color: rgb(130, 130, 130);
+}
+
+.quote {
+  padding: 0 380px;
+  font-family: lato;
+  font-weight: 200;
+  font-style: italic;
+}

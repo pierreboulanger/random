@@ -1,0 +1,27 @@
+.first {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 30px;
+}
+
+a .logo {
+	height: 60px;
+	position: relative;
+	right: 50px;
+	left: 50px;
+}
+
+.block-margin {
+	margin: 80px;
+}
+
+.flexy {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.link:hover {
+  opacity: 0.5;
+}

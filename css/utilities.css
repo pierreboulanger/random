@@ -1,0 +1,21 @@
+body {
+    font-family: "Open Sans", "Helvetica", "sans-serif";
+    font-size: 16px;
+    line-height: 1.4;
+    background-color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 11px;
+}
+
+h1 small, h1 .small, h2 small, h2 .small, h3 small, h3 .small, h4 small, h4 .small, h5 small, h5 .small, h6 small, h6 .small, .h1 small, .h1 .small, .h2 small, .h2 .small, .h3 small, .h3 .small, .h4 small, .h4 .small, .h5 small, .h5 .small, .h6 small, .h6 .small {
+    font-weight: normal;
+    line-height: 1;
+    color: #777777;
+}
