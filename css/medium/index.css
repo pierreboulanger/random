@@ -3,3 +3,12 @@
 .container {
     width: 750px;
 }
+
+.banner-content {
+  margin-top: 60px;
+}
+
+.banner-content h1 {
+  font-size: 42px;
+  margin: 1rem 1rem;
+}
